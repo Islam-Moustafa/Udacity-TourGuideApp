@@ -1,2 +1,2 @@
-# Udacity-TourGuideApp
-Cairo Guide app display places of hotels, sights and shops by Fragment, ViewPager and TabLayout.   
+# Cairo Guide App for Udacity
+Project Tour Guide of Android Basics Nanodegree
