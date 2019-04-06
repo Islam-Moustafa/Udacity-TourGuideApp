@@ -1,6 +1,6 @@
 ## Cairo Guide App for Udacity
-- Project is part of Android Basics Nanodegree at Udacity.
-- [Android Basics Nanodegree at Udacity.com.] (https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- Project is part of Android Basics Nanodegree at Udacity. Android Basics Nanodegree at Udacity.com.
+- [Android Basics Nanodegree: Multiscreen Apps.](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
  
 ## Description
 Cairo Guide App displays a list of sights, hotels and shops of cairo city.  
