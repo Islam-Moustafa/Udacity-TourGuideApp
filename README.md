@@ -1,5 +1,5 @@
 ## Cairo Guide App for Udacity
-- Project is part of Android Basics Nanodegree at Udacity. Android Basics Nanodegree at Udacity.com.
+- Project is part of Android Basics Nanodegree. 
 - [Android Basics Nanodegree: Multiscreen Apps.](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
  
 ## Description
