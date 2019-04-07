@@ -1,0 +1,14 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Cairo Guide</string>
+
+    <!-- Category name for the shops [CHAR LIMIT=20] -->
+    <string name="category_shops">SHOPS</string>
+
+    <!-- Category name for the hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the sights [CHAR LIMIT=20] -->
+    <string name="category_sights">SIGHTS</string>
+
+</resources>
